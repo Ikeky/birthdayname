@@ -19,8 +19,8 @@ body{
 }
 .img-thumb{
 	background-repeat:no-repeat;
-	background-size:100%;
-	background-position: 0 100%;
+	background-size:130%;
+	background-position: 70% 50%;
 	background-color: #0e587f;
 }
 .text-outline-bl{
